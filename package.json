@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async-lock": "^1.2.8",
+    "csv-reader": "^1.0.7",
+    "sqlite3": "latest"
+  }
+}
